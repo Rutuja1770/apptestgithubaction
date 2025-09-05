@@ -16,7 +16,7 @@ on:
 
 
 jobs:
-  test:
+  test :
     runs_on: ubuntu -latest
 
     steps:
